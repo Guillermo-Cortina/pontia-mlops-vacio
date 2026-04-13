@@ -27,10 +27,6 @@ ENV/
 *.tfvars
 *.tfplan
 
-# --- MLflow cache (if used) ---
-mlruns/
-mlartifacts/
-
 # --- VSCode ---
 .vscode/
 
